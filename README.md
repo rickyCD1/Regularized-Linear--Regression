@@ -1,2 +1,2 @@
-# Regularized-Linear--Regression
-Regularized-Linear-Regression
+# Regularized Linear Regression
+Regularized Linear Regression
